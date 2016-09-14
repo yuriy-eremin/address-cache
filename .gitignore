@@ -1,0 +1,9 @@
+### Gradle template
+.gradle/
+build/
+
+### JetBrains template
+.idea/
+*.iws
+/out/
+.idea_modules/
